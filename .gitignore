@@ -1,0 +1,33 @@
+# Java build files
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE folders
+/.idea/
+/.vscode/
+/target/
+/bin/
+/out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Tomcat work directory
+/work/
+/temp/
+
+# Maven
+.mvn/
+target/
+
+# VS Code settings
+.vscode/
