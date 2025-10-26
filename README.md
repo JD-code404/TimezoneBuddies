@@ -1,4 +1,3 @@
-# TimezoneBuddies
 # Timezone Buddies
 
 A Java web application for managing buddies and scheduling meetings across different timezones using JSP, Servlets, JDBC, and MySQL.
